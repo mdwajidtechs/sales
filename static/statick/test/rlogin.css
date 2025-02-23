@@ -1,0 +1,65 @@
+
+
+h1{
+    text-align: center;
+}
+input{ 
+    margin: 20px;
+    padding: 8px;
+    border-radius: 20px;
+    text-align: center;
+}
+.Show{
+    background-color: tomato;
+    justify-content: center;
+    display: flex;
+    height: 500px;
+}
+
+.frm{
+    margin: 10px;
+    background-color: tomato;
+    width: 30%;
+    display: flex;
+    flex-direction: column;
+    border-radius: 10px;
+    height: 350px;
+    margin: 50px;
+}
+
+
+
+
+.frm .btn{
+    background-color: yellow;
+    border: none;
+  
+    padding: 15px 32px;
+    border-radius: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;;
+}
+.frm .btn:hover{
+    background-color: red;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: large;
+}
+
+
+.frm .btn{
+    background-color: #088178;
+    border: none;
+  
+    padding: 15px 32px;
+    border-radius: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;;
+}
